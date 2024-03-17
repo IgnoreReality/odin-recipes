@@ -1,0 +1,30 @@
+body{
+    font-family: "Times New Roman", Arial, sans-serif;
+    background-color: rgb(177, 174, 174);
+}
+
+.main-title.title{
+    font-size: 30px;
+}
+
+.title{
+    text-align: center;
+    background-color: rgb(97, 95, 95);
+}
+
+.main-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ul{
+    font-size: 18px;
+    color: rgb(153, 153, 236);
+}
+
+ol{
+    font-weight: 700;
+
+}
